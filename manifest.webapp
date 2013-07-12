@@ -1,0 +1,32 @@
+{
+  "version": "0.1",
+  "name": "Hola Mundo",
+  "description": "Una típica aplicación web Hola Mundo",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/hw-16.png",
+    "48": "/img/icons/hw-48.png",
+    "128": "/img/icons/hw-128.png"
+  },
+  "developer": {
+    "name": "Santiago",
+    "url": "http://yourawesomeapp.com"
+  },
+  "installs_allowed_from": ["*"],
+  "xxxxx-appcache_path": "/cache.manifest",
+  "locales": {
+    "en": {
+      "description": "Hello World application",
+      "developer": {
+        "url": "http://yourawesomeapp.com"
+      }
+    },
+    "it": {
+      "description": "Ciao Mondo applicazione",
+      "developer": {
+        "url": "http://yourawesomeapp.com"
+      }
+    }
+  },
+  "default_locale": "es"
+}
