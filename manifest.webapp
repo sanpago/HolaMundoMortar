@@ -4,6 +4,8 @@
   "description": "Una típica aplicación web Hola Mundo",
   "launch_path": "/HolaMundoMortar/index.html",
   "icons": {
+    "16": "/HolaMundoMortar/img/icons/hw-16.png",
+    "48": "/HolaMundoMortar/img/icons/hw-48.png",
     "128": "/HolaMundoMortar/img/icons/hw-128.png"
   },
   "developer": {
@@ -11,7 +13,7 @@
     "url": "http://yourawesomeapp.com"
   },
   "installs_allowed_from": ["*"],
-  "xxxxx-appcache_path": "/cache.manifest",
+  "appcache_path": "/HolaMundoMortar/cache.manifest",
   "locales": {
     "en": {
       "description": "Hello World application",
