@@ -4,9 +4,7 @@
   "description": "Una típica aplicación web Hola Mundo",
   "launch_path": "/HolaMundoMortar/index.html",
   "icons": {
-    "128": "/HolaMundoMortar/img/icons/hw-128.png",
-    "48": "/HolaMundoMortar/img/icons/hw-48.png",
-    "16": "/HolaMundoMortar/img/icons/hw-16.png"
+    "128": "/HolaMundoMortar/img/icons/hw-128.png"
   },
   "developer": {
     "name": "Santiago",
