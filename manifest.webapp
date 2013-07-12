@@ -13,7 +13,7 @@
     "url": "http://yourawesomeapp.com"
   },
   "installs_allowed_from": ["*"],
-  "appcache_path": "/HolaMundoMortar/manifest.appcache",
+  "appcache_path": "manifest.appcache",
   "locales": {
     "en": {
       "description": "Hello World application",
