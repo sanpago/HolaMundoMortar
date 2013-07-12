@@ -2,24 +2,24 @@ CACHE MANIFEST
 # o0/inAgn2MS5BNqbj+GYdMuD50c=
 
 CACHE:
-build.txt
-css/app.css
-css/install-button.css
-favicon.ico
-img/.gitignore
-img/glyphicons-halflings-white.png
-img/glyphicons-halflings.png
-img/icons/hw-128.png
-img/icons/hw-16.png
-img/icons/hw-48.png
-img/icons/mortar-128.png
-img/icons/mortar-16.png
-img/icons/mortar-48.png
-index.html
-js/app.js
-js/init.js
-js/lib/require.js
-manifest.webapp
+HolaMundoMortar/build.txt
+HolaMundoMortar/css/app.css
+HolaMundoMortar/css/install-button.css
+HolaMundoMortar/favicon.ico
+HolaMundoMortar/img/.gitignore
+HolaMundoMortar/img/glyphicons-halflings-white.png
+HolaMundoMortar/img/glyphicons-halflings.png
+HolaMundoMortar/img/icons/hw-128.png
+HolaMundoMortar/img/icons/hw-16.png
+HolaMundoMortar/img/icons/hw-48.png
+HolaMundoMortar/img/icons/mortar-128.png
+HolaMundoMortar/img/icons/mortar-16.png
+HolaMundoMortar/img/icons/mortar-48.png
+HolaMundoMortar/index.html
+HolaMundoMortar/js/app.js
+HolaMundoMortar/js/init.js
+HolaMundoMortar/js/lib/require.js
+HolaMundoMortar/manifest.webapp
 
 # catch-all for anything else
 NETWORK:
