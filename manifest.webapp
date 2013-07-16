@@ -2,18 +2,18 @@
   "version": "0.1",
   "name": "Hola Mundo",
   "description": "Una típica aplicación web Hola Mundo",
-  "launch_path": "/HolaMundoMortar/index.html",
+  "launch_path": "/index.html",
   "icons": {
-    "16": "/HolaMundoMortar/img/icons/hw-16.png",
-    "48": "/HolaMundoMortar/img/icons/hw-48.png",
-    "128": "/HolaMundoMortar/img/icons/hw-128.png"
+    "16": "/img/icons/hw-16.png",
+    "48": "/img/icons/hw-48.png",
+    "128": "/img/icons/hw-128.png"
   },
   "developer": {
     "name": "Santiago",
     "url": "http://yourawesomeapp.com"
   },
   "installs_allowed_from": ["*"],
-  "appcache_path": "/HolaMundoMortar/manifest.appcache",
+  "appcache_path": "/manifest.appcache",
   "locales": {
     "en": {
       "description": "Hello World application",
